@@ -166,7 +166,7 @@
 
 .card-img1 {
   /* background-color: #c7f318; */
-  background-image: url(/Latihan/img/1.avif);
+  background-image: url(/img/1.avif);
   background-size: cover;
   width: 95%;
   height: 200px;
@@ -174,7 +174,7 @@
 
 .card-img2 {
   /* background-color: #c7f318; */
-  background-image: url(/Latihan/img/2.avif);
+  background-image: url(/img/2.avif);
   background-size: cover;
   width: 95%;
   height: 200px;
@@ -182,7 +182,7 @@
 
 .card-img3 {
   /* background-color: #c7f318; */
-  background-image: url(/Latihan/img/a.avif);
+  background-image: url(/img/a.avif);
   background-size: cover;
   width: 95%;
   height: 200px;
@@ -256,7 +256,7 @@
 
 .cards-img1 {
   /* background-color: #c7f318; */
-  background-image: url(/Latihan/img/a.avif);
+  background-image: url(/img/a.avif);
   background-size: cover;
   width: 100px;
   height: 100px;
@@ -310,3 +310,4 @@
   font-size: 0.8rem;
 }
 /* Footer */
+
